@@ -17,7 +17,7 @@
 |Punjabi BERT|<a href='https://huggingface.co/l3cube-pune/punjabi-bert'> model </a>|
 |Assamese BERT|<a href='https://huggingface.co/l3cube-pune/assamese-bert'> model </a>|
 
-### Monolingual Sentence BERT models for Indic languages
+### Indic Sentence BERT models
 
 |Similarity Model|Sentence BERT|
 |:--------:|:--------:|
