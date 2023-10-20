@@ -1,6 +1,8 @@
-# indic-nlp
+# L3Cube-IndicNLP
+The L3Cube's IndicNLP project is an effort to improve NLP resources for Indic languages.
 
 ### Monolingual BERT models for Indic languages
+More details about these models can be found in <a href="https://arxiv.org/abs/2211.11418"> paper </a>
 
 |Model|Link|
 |:--------:|:----:|
@@ -18,6 +20,7 @@
 |Assamese BERT|<a href='https://huggingface.co/l3cube-pune/assamese-bert'> model </a>|
 
 ### Indic Sentence BERT models
+More details about these models can be found in <a href="https://arxiv.org/abs/2304.11434"> paper </a>
 
 |Similarity Model|Sentence BERT|
 |:--------:|:--------:|
@@ -33,3 +36,30 @@
 |<a href='https://huggingface.co/l3cube-pune/punjabi-sentence-similarity-sbert'> Punjabi Similarity </a> |<a href='https://huggingface.co/l3cube-pune/punjabi-sentence-bert-nli'> Punjabi SBERT</a>|
 |<a href='https://huggingface.co/l3cube-pune/indic-sentence-similarity-sbert'> Indic Similarity (multilingual)</a> |<a href='https://huggingface.co/l3cube-pune/indic-sentence-bert-nli'> Indic SBERT (multilingual)</a>|
 
+## License
+
+All the resources are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>. The datasets are released to the community for research purposes only and the group is not responsible for any misuse of these datasets.
+
+## Citing
+```
+@article{joshi2022l3cube_hind,
+  title={L3Cube-HindBERT and DevBERT: Pre-Trained BERT Transformer models for Devanagari based Hindi and Marathi Languages},
+  author={Joshi, Raviraj},
+  journal={arXiv preprint arXiv:2211.11418},
+  year={2022}
+}
+```
+```
+@article{deode2023l3cube,
+  title={L3Cube-IndicSBERT: A simple approach for learning cross-lingual sentence representations using multilingual BERT},
+  author={Deode, Samruddhi and Gadre, Janhavi and Kajale, Aditi and Joshi, Ananya and Joshi, Raviraj},
+  journal={arXiv preprint arXiv:2304.11434},
+  year={2023}
+}
+
+```
+## Publications
+```
+Joshi, Raviraj. "L3Cube-HindBERT and DevBERT: Pre-Trained BERT Transformer models for Devanagari based Hindi and Marathi Languages." arXiv preprint arXiv:2211.11418 (2022).
+Deode, Samruddhi, et al. "L3Cube-IndicSBERT: A simple approach for learning cross-lingual sentence representations using multilingual BERT." arXiv preprint arXiv:2304.11434 (2023).
+```
