@@ -1,5 +1,5 @@
 # L3Cube-IndicNLP
-The L3Cube's IndicNLP project is an effort to improve NLP resources for Indic languages.
+The L3Cube's IndicNLP project is an effort to improve NLP resources for Indic languages. We have created monolingual BERT models for 10 Indic languages. We have also released monolingual and multilingual (cross-lingual) Sentence BERT models. These models provide state-of-the-art results on downstream tasks.
 
 ### Monolingual BERT models for Indic languages
 More details about these models can be found in <a href="https://arxiv.org/abs/2211.11418"> paper </a>
