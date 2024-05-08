@@ -62,6 +62,7 @@ All the resources are licensed under a <a rel="license" href="http://creativecom
 ```
 Joshi, Raviraj. "L3Cube-HindBERT and DevBERT: Pre-Trained BERT Transformer models for Devanagari based Hindi and Marathi Languages." arXiv preprint arXiv:2211.11418 (2022).
 Deode, Samruddhi, et al. "L3Cube-IndicSBERT: A simple approach for learning cross-lingual sentence representations using multilingual BERT." arXiv preprint arXiv:2304.11434 (2023).
+Mirashi, Aishwarya, et al. "L3Cube-IndicNews: News-based Short Text and Long Document Classification Datasets in Indic Languages." arXiv preprint arXiv:2401.02254 (2024).
 ```
 
 This project is led by <a href='https://www.linkedin.com/in/ravirajoshi/'> Raviraj Joshi </a> under L3Cube Labs, Pune. For any queries contact ravirajoshi@gmail.com .
