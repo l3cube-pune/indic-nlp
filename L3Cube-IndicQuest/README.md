@@ -6,7 +6,7 @@ The dataset spans five domains: Literature, History, Geography, Politics, and Ec
 Citing:
 ```
 @article{rohera2024l3cube,
-  title={L3Cube-IndicQuest: A Benchmark Questing Answering Dataset for Evaluating Knowledge of LLMs in Indic Context},
+  title={L3Cube-IndicQuest: A Benchmark Question Answering Dataset for Evaluating Knowledge of LLMs in Indic Context},
   author={Rohera, Pritika and Ginimav, Chaitrali and Salunke, Akanksha and Sawant, Gayatri and Joshi, Raviraj},
   journal={arXiv preprint arXiv:2409.08706},
   year={2024}
