@@ -1,0 +1,32 @@
+  prompt = f"""
+
+  Evaluate the quality of the model's responses to questions from a benchmark dataset on a scale of 1-5 (score can be a decimal fraction format number) across the following parameters:
+
+  Factual Accuracy: Given an input question, ground truth facts relevant to the question, and the model/bot's answer, evaluate how well the information in the model's answer aligns with the provided ground truth facts. Assign a score on a scale of 1 to 5 based on the following criteria: a score of 5 indicates complete alignment with all ground truth facts; a score of 3 represents partial alignment where approximately half of the facts are correct; and a score of 1 denotes complete misalignment with the ground truth facts. Scores between these benchmarks can reflect varying degrees of alignment or discrepancies.
+
+  Relevance: Assess how well the model's answer directly addresses the question. A score of 5 indicates a highly relevant answer, while a score of 1 indicates an irrelevant or off-topic response.
+
+  Clarity: Evaluate the clarity and coherence of the model's answer. A score of 5 means the answer is well-structured and easy to understand, while a score of 1 means it is confusing or poorly constructed.
+
+  Language Consistency: Ensure that the language of the response matches the language of the question unless otherwise specified. Penalize cases where there is a mismatch between the input language specified in the question and the response language.
+
+  Conciseness: Rate how concise the answer is while still providing necessary information. A score of 5 indicates the answer is succinct and to the point, while a score of 1 indicates excessive verbosity or unnecessary information.
+
+  Input Details:
+
+  Question: {question}
+  Ground Truth Facts: {ground_truth}
+  Model/Bot Answer: {model_answer}
+  After evaluating each parameter, provide an overall rating on a scale of 1-5 considering all the parameters. The parameter factual accuracy should have more weightage in the overall score.
+
+  Output Format:
+  Return the evaluation scores in the following JSON format(Return only the JSON and nothing else):
+  {{
+    "Factual Accuracy": score,
+    "Relevance": score,
+    "Clarity": score,
+    "Language Consistency": score,
+    "Conciseness": score,
+    "Overall": average_score
+  }}
+  """
