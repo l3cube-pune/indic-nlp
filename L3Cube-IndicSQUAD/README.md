@@ -31,7 +31,7 @@ Each language has dedicated training, validation, and test splits.
 
 The IndicSQuAD dataset retains the extractive QA format of the original SQuAD dataset. Each example consists of a context paragraph, a question related to the context, and the answer, which is a span of text within the context.
 
-The dataset details and baseline results on monolingual and multilingual BERT models are provided in the <a href=""> paper </a>.
+The dataset details and baseline results on monolingual and multilingual BERT models are provided in the <a href="https://arxiv.org/abs/2505.03688"> paper </a>.
 
 ## Getting Started
 
