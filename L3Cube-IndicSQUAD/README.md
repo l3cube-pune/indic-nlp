@@ -6,7 +6,7 @@ The field of Question Answering (QA) has witnessed remarkable advancements, yet 
 
 To address this gap, we introduce **IndicSQuAD**, a comprehensive multi-lingual extractive QA dataset encompassing nine major Indic languages. This dataset is systematically derived from the widely used SQuAD dataset, ensuring a strong foundation for cross-lingual transfer and adaptation.
 
-Building upon the methodology established with MahaSQuAD for Marathi, our approach involves carefully adapting and extending translation techniques. This meticulous process prioritizes maintaining high linguistic fidelity and accurate answer-span alignment across the diverse grammatical structures and nuances of the included languages.
+Building upon the methodology established with [MahaSQuAD](https://aclanthology.org/2023.icon-1.45/) for Marathi, our approach involves carefully adapting and extending translation techniques. This meticulous process prioritizes maintaining high linguistic fidelity and accurate answer-span alignment across the diverse grammatical structures and nuances of the included languages.
 
 IndicSQuAD provides extensive training, validation, and test sets for each of the ten languages, offering a robust and reliable resource for the development and evaluation of QA models for these languages.
 
