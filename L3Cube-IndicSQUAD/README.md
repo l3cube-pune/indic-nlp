@@ -37,6 +37,20 @@ The dataset details and baseline results on monolingual and multilingual BERT mo
 
 The IndicSQuAD dataset is publicly available at: [drive-link](https://drive.google.com/drive/folders/1GF47J0byaXPNfDhPrYyA-0d1KklZf87x?usp=sharing)
 
+## HuggingFace models
+| Language  | Model Link                                                                                                |
+|-----------|-----------------------------------------------------------------------------------------------------------|
+| Marathi   | [marathi-question-answering-squad-bert](https://huggingface.co/l3cube-pune/marathi-question-answering-squad-bert) |
+| Hindi     | [hindi-question-answering-squad-bert](https://huggingface.co/l3cube-pune/hindi-question-answering-squad-bert)   |
+| Bengali   | [bengali-question-answering-squad-bert](https://huggingface.co/l3cube-pune/bengali-question-answering-squad-bert) |
+| Telugu    | [telugu-question-answering-squad-bert](https://huggingface.co/l3cube-pune/telugu-question-answering-squad-bert)   |
+| Tamil     | [tamil-question-answering-squad-bert](https://huggingface.co/l3cube-pune/tamil-question-answering-squad-bert)   |
+| Gujarati  | [gujarati-question-answering-squad-bert](https://huggingface.co/l3cube-pune/gujarati-question-answering-squad-bert) |
+| Punjabi   | [punjabi-question-answering-squad-bert](https://huggingface.co/l3cube-pune/punjabi-question-answering-squad-bert)   |
+| Kannada   | [kannada-question-answering-squad-bert](https://huggingface.co/l3cube-pune/kannada-question-answering-squad-bert)   |
+| Oriya     | [oriya-question-answering-squad-bert](https://huggingface.co/l3cube-pune/oriya-question-answering-squad-bert)     |
+| Malayalam | [malayalam-question-answering-squad-bert](https://huggingface.co/l3cube-pune/malayalam-question-answering-squad-bert) |
+
 ## Citation
 
 If you use the IndicSQuAD dataset in your research, please cite the following papers:
