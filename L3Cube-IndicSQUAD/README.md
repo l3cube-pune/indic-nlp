@@ -39,7 +39,16 @@ The IndicSQuAD dataset is publicly available at: [drive-link](https://drive.goog
 
 ## Citation
 
-If you use the IndicSQuAD dataset in your research, please cite the following paper:
+If you use the IndicSQuAD dataset in your research, please cite the following papers:
+```
+@article{endait2025indicsquad,
+  title={IndicSQuAD: A Comprehensive Multilingual Question Answering Dataset for Indic Languages},
+  author={Endait, Sharvi and Ghatage, Ruturaj and Kulkarni, Aditya and Patil, Rajlaxmi and Joshi, Raviraj},
+  journal={arXiv preprint arXiv:2505.03688},
+  year={2025}
+}
+```
+
 ```
 @inproceedings{ruturaj2023mahasquad,
   title={MahaSQuAD: Bridging Linguistic Divides in Marathi Question-Answering},
