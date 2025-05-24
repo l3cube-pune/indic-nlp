@@ -35,7 +35,7 @@ The dataset details and baseline results on monolingual and multilingual BERT mo
 
 ## Getting Started
 
-The IndicSQuAD dataset is publicly available at: [hugging-face](https://huggingface.co/datasets/l3cube-pune/IndicSQuAD) and [drive-link](https://drive.google.com/drive/folders/1GF47J0byaXPNfDhPrYyA-0d1KklZf87x?usp=sharing)
+The IndicSQuAD dataset is publicly available at: [hugging-face](https://huggingface.co/datasets/l3cube-pune/indic-squad) and [drive-link](https://drive.google.com/drive/folders/1GF47J0byaXPNfDhPrYyA-0d1KklZf87x?usp=sharing)
 
 ## HuggingFace models
 | Language  | Model Link                                                                                                |
