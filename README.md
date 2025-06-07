@@ -64,6 +64,7 @@ Joshi, Raviraj. "L3Cube-HindBERT and DevBERT: Pre-Trained BERT Transformer model
 Deode, Samruddhi, et al. "L3Cube-IndicSBERT: A simple approach for learning cross-lingual sentence representations using multilingual BERT." arXiv preprint arXiv:2304.11434 (2023).
 Mirashi, Aishwarya, et al. "L3Cube-IndicNews: News-based Short Text and Long Document Classification Datasets in Indic Languages." arXiv preprint arXiv:2401.02254 (2024).
 Rohera, Pritika, et al. "L3Cube-IndicQuest: A Benchmark Question Answering Dataset for Evaluating Knowledge of LLMs in Indic Context." arXiv preprint arXiv:2409.08706 (2024).
+Rohera, Pritika, et al. "Better To Ask in English? Evaluating Factual Accuracy of Multilingual LLMs in English and Low-Resource Languages." arXiv preprint arXiv:2504.20022 (2025).
 Endait, Sharvi, et al. "IndicSQuAD: A Comprehensive Multilingual Question Answering Dataset for Indic Languages." arXiv preprint arXiv:2505.03688 (2025).
 ```
 
